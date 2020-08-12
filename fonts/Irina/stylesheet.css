@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Irina';
+    src: url('IrinaRegular.eot');
+    src: url('IrinaRegular.eot?#iefix') format('embedded-opentype'),
+        url('IrinaRegular.woff2') format('woff2'),
+        url('IrinaRegular.woff') format('woff'),
+        url('IrinaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
